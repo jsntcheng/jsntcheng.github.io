@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 喵喵喵的博客呀</title>
-        <link>https://jsntcheng.github.io/posts/</link>
+        <link>https://jsntcheng.github.io/post/</link>
         <description>Recent content in Posts on 喵喵喵的博客呀</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 10 Nov 2025 16:06:45 +0800</lastBuildDate><atom:link href="https://jsntcheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 10 Nov 2025 16:06:45 +0800</lastBuildDate><atom:link href="https://jsntcheng.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>文生视频提示词指南</title>
-        <link>https://jsntcheng.github.io/posts/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97/</link>
+        <link>https://jsntcheng.github.io/post/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97/</link>
         <pubDate>Mon, 10 Nov 2025 16:06:45 +0800</pubDate>
         
-        <guid>https://jsntcheng.github.io/posts/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97/</guid>
+        <guid>https://jsntcheng.github.io/post/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97/</guid>
         <description>&lt;h1 id=&#34;文生视频提示词架构&#34;&gt;文生视频提示词架构
 &lt;/h1&gt;&lt;h2 id=&#34;概述&#34;&gt;概述
 &lt;/h2&gt;&lt;p&gt;提示词 = 主体（主体描述）+ 场景（场景描述）+ 运动（运动描述）+ 美学控制 + 风格化&lt;/p&gt;
